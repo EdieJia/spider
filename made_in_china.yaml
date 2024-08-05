@@ -1,0 +1,50 @@
+whitelist_category:
+  # ------------Agriculture Machinery-------------
+  # - Agricultural Machinery
+  # - Feed Processing Machinery
+  # - Livestock Machinery
+  # - Tiller
+  # - Harvesting Machine
+  # ------------Hand Tools------------
+  # - Hand Tool Set
+  # - Pliers
+  # - Knife
+  # - Electric Wrench
+  # - Hammer
+  #------------Computer Componets------------
+  # - Speaker & Sound Box
+  # - USB Flash Disk
+  # - Hard Disk
+  # - Keyboard
+  # - Computer Case
+  # - Cooling Fan & Heatsinks
+  # - USB Products
+  # - Mouse
+  # - Power Supply
+  # - Memory Card
+  # - Graphic Card
+  # - Drive
+  # ------------Beauty & Personal Care------------
+  # - Hotel Amenities
+  # - Oral Care
+  # - Makeup
+  # - Skin Cleaning Tools
+  # - Perfume
+  # ------------Jewelry & Accessories------------
+  # - Fashion Accessories
+  # - Hair Products
+  # - Jewelry & Accessories
+  # - Sunglasses
+  # - Lanyard
+  # ------------Fashion Bags------------
+  # - Handbags
+  # - Tote Bag
+  # - Non-woven Shopping Bag
+  # - Wallet & Purses
+  # - Bucket Bag
+  # ------------Toys for Sports & Recreation------------
+  - Kids Driving Toys
+  - Vehicle Toys
+  - Novelty Toys
+  - Sports & Fitness
+  - Sword & Gun Toys
